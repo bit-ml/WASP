@@ -18,7 +18,7 @@
 With anaconda the environment used for development can be recreated using:
 
 ```
-conda create -f environment.yml
+conda env create -f environment.yml
 ```
 
 
